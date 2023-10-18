@@ -1,0 +1,13 @@
+name: web-server
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - ca-certificates
+  - openssl
+  - numpy
+  - pandas
+  - requests=2.28.1
+  - certifi
+  - urllib3==1.26.12
+prefix: /home/afyepesb87/anaconda3/envs/web-server
