@@ -1,0 +1,9 @@
+name: app
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - pandas
+  - ca-certificates
+  - openssl
+prefix: /home/afyepesb87/anaconda3/envs/app
